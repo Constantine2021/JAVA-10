@@ -1,0 +1,6 @@
+Minsk OtherCity1 10.0
+Minsk OtherCity2 10.0
+Minsk OtherCity3 10.0
+AnotherCity1 OtherCity1 10.0
+AnotherCity2 OtherCity2 10.0
+AnotherCity3 OtherCity3 10.0
